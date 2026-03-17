@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NavesUSFX_012026.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9871C938-7137-4247-9DBF-22CEFF9CBBA8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NavesUSFX_012026.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NavesUSFX_012026Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{686B60B8-1397-49AB-84D4-2FF8EE081959}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NavesUSFX_012026">
+      <UniqueIdentifier>{460F1D16-EFB0-421C-B105-A69F7999749B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\Enemigo.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\Enemigo.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\NavesUSFX_012026\NavesUSFX_012026.Build.cs">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\NavesUSFX_012026.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\NavesUSFX_012026.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\NavesUSFX_012026GameModeBase.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\NavesUSFX_012026GameModeBase.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

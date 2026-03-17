@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NavesUSFX_012026.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026.cpp.obj"
+"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026GameModeBase.cpp.obj"
+"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026.init.gen.cpp.obj"
+"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026GameModeBase.gen.cpp.obj"
+"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Default.rc2.res"
+/OUT:"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\UE4Editor-NavesUSFX_012026.lib"
