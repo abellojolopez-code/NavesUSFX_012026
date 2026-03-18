@@ -260,11 +260,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/I "C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine"
-/Yc"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
-/Fo"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/I C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine
+/Yc"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
+/Fo"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 /TP
 /GR-
 /W4

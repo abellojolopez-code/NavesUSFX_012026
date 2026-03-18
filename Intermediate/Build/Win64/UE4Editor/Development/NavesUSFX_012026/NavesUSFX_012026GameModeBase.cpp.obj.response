@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026"
-/I "C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Source"
+/I C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026
+/I C:\Users\Victus\Downloads\NavesUSFX_012026\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/FI"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Source\NavesUSFX_012026\NavesUSFX_012026GameModeBase.cpp"
-/FI"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Definitions.NavesUSFX_012026.h"
-/Fo"C:\Users\Victus\OneDrive\Documentos\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026GameModeBase.cpp.obj"
+/FI"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Victus\Downloads\NavesUSFX_012026\Source\NavesUSFX_012026\NavesUSFX_012026GameModeBase.cpp"
+/FI"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Definitions.NavesUSFX_012026.h"
+/Fo"C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026GameModeBase.cpp.obj"
 /TP
 /GR-
 /W4

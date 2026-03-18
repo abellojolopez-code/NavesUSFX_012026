@@ -40,7 +40,6 @@ void EmptyLinkFunctionForGeneratedCodeNavesUSFX_012026GameModeBase() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANavesUSFX_012026GameModeBase_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "NavesUSFX_012026GameModeBase.h" },
 		{ "ModuleRelativePath", "NavesUSFX_012026GameModeBase.h" },
@@ -74,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeNavesUSFX_012026GameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANavesUSFX_012026GameModeBase, 1419065275);
+	IMPLEMENT_CLASS(ANavesUSFX_012026GameModeBase, 4271980220);
 	template<> NAVESUSFX_012026_API UClass* StaticClass<ANavesUSFX_012026GameModeBase>()
 	{
 		return ANavesUSFX_012026GameModeBase::StaticClass();

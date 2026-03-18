@@ -1,0 +1,7 @@
+C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Definitions.NavesUSFX_012026.h
+C:\Users\Victus\Downloads\NavesUSFX_012026\Source\NavesUSFX_012026\Soldado.h
+C:\Users\Victus\Downloads\NavesUSFX_012026\Source\NavesUSFX_012026\EnemigoTerrestre.h
+C:\Users\Victus\Downloads\NavesUSFX_012026\Source\NavesUSFX_012026\Enemigo.h
+C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026\Enemigo.generated.h
+C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026\EnemigoTerrestre.generated.h
+C:\Users\Victus\Downloads\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026\Soldado.generated.h

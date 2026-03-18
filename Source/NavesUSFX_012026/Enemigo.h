@@ -20,11 +20,11 @@ protected:
 public:
     virtual void Tick(float DeltaTime) override;
 
-    // Mesh del enemigo
+    
     UPROPERTY(VisibleAnywhere)
     UStaticMeshComponent* EnemigoMesh;
 
-    // Velocidad de movimiento
+    
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movimiento")
     float Velocidad;
 };

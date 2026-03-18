@@ -57,19 +57,15 @@ void EmptyLinkFunctionForGeneratedCodeEnemigo() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEnemigo_Statics::NewProp_EnemigoMesh_MetaData[] = {
 		{ "Category", "Enemigo" },
-		{ "Comment", "// Mesh del enemigo\n" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Enemigo.h" },
-		{ "ToolTip", "Mesh del enemigo" },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemigo_Statics::NewProp_EnemigoMesh = { "EnemigoMesh", nullptr, (EPropertyFlags)0x00100000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AEnemigo, EnemigoMesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AEnemigo_Statics::NewProp_EnemigoMesh_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AEnemigo_Statics::NewProp_EnemigoMesh_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEnemigo_Statics::NewProp_Velocidad_MetaData[] = {
 		{ "Category", "Movimiento" },
-		{ "Comment", "// Velocidad de movimiento\n" },
 		{ "ModuleRelativePath", "Enemigo.h" },
-		{ "ToolTip", "Velocidad de movimiento" },
 	};
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AEnemigo_Statics::NewProp_Velocidad = { "Velocidad", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AEnemigo, Velocidad), METADATA_PARAMS(Z_Construct_UClass_AEnemigo_Statics::NewProp_Velocidad_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AEnemigo_Statics::NewProp_Velocidad_MetaData)) };
@@ -104,7 +100,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemigo() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEnemigo, 3531259162);
+	IMPLEMENT_CLASS(AEnemigo, 4105838224);
 	template<> NAVESUSFX_012026_API UClass* StaticClass<AEnemigo>()
 	{
 		return AEnemigo::StaticClass();

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\NavesUSFX_012026.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{9871C938-7137-4247-9DBF-22CEFF9CBBA8}</UniqueIdentifier>
+      <UniqueIdentifier>{5B73F903-0A70-4CA7-891E-2EA0CF9A1782}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\NavesUSFX_012026.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\NavesUSFX_012026Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{686B60B8-1397-49AB-84D4-2FF8EE081959}</UniqueIdentifier>
+      <UniqueIdentifier>{652BD021-145E-4FE1-84F1-16F82859E34D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,12 +26,78 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\NavesUSFX_012026">
-      <UniqueIdentifier>{460F1D16-EFB0-421C-B105-A69F7999749B}</UniqueIdentifier>
+      <UniqueIdentifier>{6AB0E287-CB0A-4E7E-9FCD-A889F07E7279}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\Barco.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\Barco.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\Blindado.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\Blindado.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\Camion.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\Camion.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\EAAvion.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\EAAvion.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\EADron.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\EADron.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\EAHelicoptero.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\EAHelicoptero.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\NavesUSFX_012026\Enemigo.cpp">
       <Filter>Source\NavesUSFX_012026</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\NavesUSFX_012026\Enemigo.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\EnemigoAcuatico.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\EnemigoAcuatico.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\EnemigoAereo.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\EnemigoAereo.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\EnemigoTerrestre.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\EnemigoTerrestre.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\Lancha.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\Lancha.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\MotoAcuatica.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\MotoAcuatica.h">
       <Filter>Source\NavesUSFX_012026</Filter>
     </ClInclude>
     <None Include="..\..\Source\NavesUSFX_012026\NavesUSFX_012026.Build.cs">
@@ -45,6 +113,24 @@
       <Filter>Source\NavesUSFX_012026</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\NavesUSFX_012026\NavesUSFX_012026GameModeBase.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\Soldado.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\Soldado.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\Submarino.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\Submarino.h">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NavesUSFX_012026\Tanque.cpp">
+      <Filter>Source\NavesUSFX_012026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NavesUSFX_012026\Tanque.h">
       <Filter>Source\NavesUSFX_012026</Filter>
     </ClInclude>
   </ItemGroup>

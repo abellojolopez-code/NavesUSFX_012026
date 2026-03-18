@@ -6,15 +6,20 @@
 #include "GameFramework/GameModeBase.h"
 #include "NavesUSFX_012026GameModeBase.generated.h"
 
-/**
- * 
- */
+class AEnemigo; 
+
 UCLASS()
 class NAVESUSFX_012026_API ANavesUSFX_012026GameModeBase : public AGameModeBase
 {
-	GENERATED_BODY()
-	
+    GENERATED_BODY()
+    
 protected:
-	virtual void BeginPlay() override;
+    virtual void BeginPlay() override;
 
+    
+    void CheckPrimeraCuadrilla();
+
+    
+    TArray<AEnemigo*> PrimeraCuadrilla;   
+    FTimerHandle TimerHandleCheck;        
 };
